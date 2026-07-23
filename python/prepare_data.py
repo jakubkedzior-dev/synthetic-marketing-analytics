@@ -66,6 +66,28 @@ campaign_performance = connection.execute(
     ORDER BY net_revenue DESC
     """
 ).df()
+
+money_columns = [
+    "net_revenue",
+    "average_order_value",
+    "cost_per_conversion",
+]
+
+rate_columns = [
+    "open_rate",
+    "click_rate",
+    "conversion_rate",
+    "click_to_conversion_rate",
+    "roas",
+]
+
+campaign_performance[money_columns] = (
+    campaign_performance[money_columns].round(2)
+)
+
+campaign_performance[rate_columns] = (
+    campaign_performance[rate_columns].round(4)
+)
 connection.close()
 
 campaign_performance.to_csv(
