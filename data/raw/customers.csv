@@ -1,0 +1,1001 @@
+customer_id,registration_date,country,age_group,customer_segment,acquisition_channel,loyalty_member,loyalty_join_date
+CUS-00001,2026-04-11,Spain,35-44,High Value,Organic,True,2026-05-02
+CUS-00002,2023-08-30,United Kingdom,18-24,At Risk,Paid Search,False,
+CUS-00003,2024-09-22,Germany,45-54,Active,Paid Search,False,
+CUS-00004,2024-08-06,Poland,45-54,New,Paid Social,False,
+CUS-00005,2024-07-03,Spain,55+,High Value,Referral,True,2024-10-19
+CUS-00006,2023-12-29,Poland,25-34,New,Paid Social,False,
+CUS-00007,2026-06-08,Poland,25-34,High Value,Paid Search,False,
+CUS-00008,2025-11-16,Germany,25-34,New,Paid Social,False,
+CUS-00009,2023-12-05,United Kingdom,25-34,Active,Referral,False,
+CUS-00010,2026-01-25,Poland,35-44,At Risk,Organic,False,
+CUS-00011,2025-05-08,United Kingdom,35-44,New,Referral,True,2025-06-01
+CUS-00012,2023-09-07,Germany,18-24,High Value,Organic,True,2024-01-30
+CUS-00013,2024-06-26,Germany,45-54,High Value,Paid Social,True,2024-12-23
+CUS-00014,2025-09-15,Poland,18-24,Active,Paid Search,False,
+CUS-00015,2026-02-12,Spain,25-34,New,Organic,False,
+CUS-00016,2023-09-02,United Kingdom,35-44,Active,Referral,True,2026-01-20
+CUS-00017,2024-05-26,United Kingdom,25-34,High Value,Organic,True,2026-03-08
+CUS-00018,2024-06-29,Germany,25-34,New,Paid Social,False,
+CUS-00019,2025-06-19,Poland,25-34,New,Paid Search,False,
+CUS-00020,2026-01-23,Poland,18-24,Active,Email,True,2026-03-18
+CUS-00021,2023-08-02,Poland,55+,At Risk,Referral,False,
+CUS-00022,2024-03-27,Poland,18-24,High Value,Email,True,2026-01-12
+CUS-00023,2025-01-01,Poland,35-44,Active,Organic,True,2025-08-04
+CUS-00024,2024-03-20,United Kingdom,25-34,At Risk,Paid Social,False,
+CUS-00025,2024-06-21,Poland,25-34,Active,Organic,False,
+CUS-00026,2024-12-26,Poland,18-24,Active,Paid Social,True,2025-03-15
+CUS-00027,2023-12-14,Germany,25-34,New,Paid Social,False,
+CUS-00028,2025-03-04,Germany,45-54,New,Organic,False,
+CUS-00029,2023-12-20,Spain,35-44,Active,Paid Search,False,
+CUS-00030,2025-01-30,Germany,25-34,Active,Organic,True,2025-10-24
+CUS-00031,2026-02-14,Poland,35-44,At Risk,Organic,False,
+CUS-00032,2024-09-05,United Kingdom,45-54,High Value,Referral,True,2026-05-24
+CUS-00033,2023-09-28,Poland,18-24,New,Paid Social,False,
+CUS-00034,2025-07-05,United Kingdom,25-34,Active,Email,False,
+CUS-00035,2025-11-02,Poland,55+,Active,Organic,False,
+CUS-00036,2024-02-01,Spain,55+,New,Referral,False,
+CUS-00037,2025-03-02,Germany,25-34,At Risk,Referral,False,
+CUS-00038,2023-11-22,Poland,45-54,High Value,Organic,True,2026-03-28
+CUS-00039,2024-10-20,Poland,45-54,At Risk,Organic,True,2026-02-20
+CUS-00040,2026-03-09,Spain,25-34,New,Paid Search,False,
+CUS-00041,2025-02-03,Germany,18-24,High Value,Organic,False,
+CUS-00042,2026-01-04,United Kingdom,18-24,New,Paid Social,False,
+CUS-00043,2024-05-16,Poland,45-54,High Value,Referral,True,2024-09-01
+CUS-00044,2023-10-02,Poland,55+,High Value,Paid Search,True,2024-09-20
+CUS-00045,2024-10-14,United Kingdom,55+,Active,Organic,False,
+CUS-00046,2023-11-23,Germany,35-44,At Risk,Organic,True,2024-11-18
+CUS-00047,2023-12-26,Spain,35-44,New,Email,False,
+CUS-00048,2025-03-04,United Kingdom,18-24,At Risk,Organic,False,
+CUS-00049,2024-09-26,Poland,35-44,At Risk,Paid Social,False,
+CUS-00050,2025-06-26,Poland,25-34,At Risk,Paid Search,False,
+CUS-00051,2026-04-05,Germany,25-34,High Value,Organic,False,
+CUS-00052,2025-02-08,Poland,18-24,High Value,Paid Social,False,
+CUS-00053,2024-03-31,Poland,18-24,New,Email,False,
+CUS-00054,2025-02-17,Poland,18-24,New,Organic,False,
+CUS-00055,2025-01-24,Poland,35-44,New,Paid Social,False,
+CUS-00056,2024-06-12,Germany,45-54,Active,Email,True,2025-11-14
+CUS-00057,2024-09-09,Poland,25-34,New,Paid Social,False,
+CUS-00058,2026-06-18,Poland,35-44,Active,Organic,True,2026-07-19
+CUS-00059,2023-11-10,Spain,18-24,At Risk,Referral,True,2026-06-13
+CUS-00060,2026-04-04,United Kingdom,45-54,At Risk,Paid Social,False,
+CUS-00061,2024-04-13,Germany,35-44,High Value,Email,True,2026-07-21
+CUS-00062,2024-08-06,Germany,25-34,Active,Organic,True,2024-12-10
+CUS-00063,2025-07-10,Poland,25-34,Active,Paid Search,False,
+CUS-00064,2025-03-03,United Kingdom,25-34,Active,Email,True,2025-09-28
+CUS-00065,2026-04-12,Poland,35-44,At Risk,Referral,False,
+CUS-00066,2025-12-04,Germany,35-44,High Value,Organic,False,
+CUS-00067,2024-06-28,United Kingdom,45-54,High Value,Organic,True,2025-12-11
+CUS-00068,2024-12-07,United Kingdom,18-24,Active,Email,True,2025-01-19
+CUS-00069,2024-07-12,United Kingdom,35-44,New,Referral,False,
+CUS-00070,2023-09-10,Poland,35-44,High Value,Organic,False,
+CUS-00071,2024-11-24,Germany,35-44,Active,Paid Search,True,2025-10-01
+CUS-00072,2024-09-10,United Kingdom,35-44,Active,Paid Social,False,
+CUS-00073,2023-11-02,Poland,18-24,At Risk,Paid Social,True,2024-09-24
+CUS-00074,2025-12-20,United Kingdom,25-34,Active,Email,False,
+CUS-00075,2024-11-22,Poland,25-34,High Value,Organic,True,2025-05-06
+CUS-00076,2026-05-06,Poland,25-34,New,Referral,False,
+CUS-00077,2025-09-05,United Kingdom,35-44,Active,Paid Search,False,
+CUS-00078,2025-03-28,Spain,18-24,At Risk,Email,False,
+CUS-00079,2026-04-16,Germany,35-44,Active,Organic,True,2026-07-14
+CUS-00080,2024-02-29,Poland,35-44,Active,Paid Search,False,
+CUS-00081,2024-09-06,United Kingdom,18-24,Active,Email,False,
+CUS-00082,2024-02-24,United Kingdom,18-24,At Risk,Email,True,2025-03-13
+CUS-00083,2025-12-11,Poland,55+,High Value,Organic,True,2026-07-08
+CUS-00084,2024-09-03,United Kingdom,25-34,New,Email,False,
+CUS-00085,2026-01-16,Poland,18-24,High Value,Paid Social,True,2026-04-09
+CUS-00086,2026-01-14,United Kingdom,18-24,At Risk,Referral,True,2026-04-01
+CUS-00087,2025-02-04,United Kingdom,45-54,At Risk,Organic,False,
+CUS-00088,2024-06-27,Germany,45-54,New,Paid Social,False,
+CUS-00089,2024-02-22,United Kingdom,25-34,At Risk,Organic,True,2026-04-23
+CUS-00090,2025-08-27,Germany,18-24,High Value,Paid Social,False,
+CUS-00091,2023-12-11,United Kingdom,25-34,New,Organic,False,
+CUS-00092,2023-10-04,Germany,45-54,New,Paid Social,False,
+CUS-00093,2024-01-09,Spain,25-34,Active,Paid Social,True,2024-09-02
+CUS-00094,2026-03-23,Spain,18-24,High Value,Paid Social,True,2026-04-23
+CUS-00095,2026-06-14,Poland,18-24,Active,Organic,False,
+CUS-00096,2025-05-08,Germany,35-44,Active,Paid Search,False,
+CUS-00097,2026-02-03,Germany,25-34,Active,Organic,True,2026-02-15
+CUS-00098,2025-03-11,Poland,35-44,Active,Paid Social,False,
+CUS-00099,2025-03-06,United Kingdom,25-34,High Value,Referral,True,2026-06-11
+CUS-00100,2025-07-19,Germany,25-34,Active,Paid Social,False,
+CUS-00101,2025-10-21,Spain,35-44,High Value,Paid Social,False,
+CUS-00102,2024-08-16,United Kingdom,35-44,High Value,Organic,True,2025-10-19
+CUS-00103,2023-08-09,Poland,25-34,New,Paid Search,False,
+CUS-00104,2026-06-13,United Kingdom,18-24,New,Referral,False,
+CUS-00105,2024-01-16,Poland,35-44,At Risk,Organic,False,
+CUS-00106,2026-06-16,Spain,45-54,Active,Paid Search,False,
+CUS-00107,2025-11-03,Poland,35-44,High Value,Organic,True,2026-02-14
+CUS-00108,2026-04-13,Poland,25-34,New,Referral,False,
+CUS-00109,2025-01-01,United Kingdom,55+,At Risk,Organic,False,
+CUS-00110,2024-01-12,Poland,45-54,Active,Paid Search,True,2025-04-11
+CUS-00111,2025-05-28,Poland,55+,Active,Organic,True,2025-09-27
+CUS-00112,2025-06-26,Germany,35-44,New,Paid Search,False,
+CUS-00113,2023-07-28,United Kingdom,35-44,New,Paid Social,False,
+CUS-00114,2024-09-04,Poland,25-34,High Value,Paid Social,False,
+CUS-00115,2025-09-07,Germany,45-54,Active,Email,False,
+CUS-00116,2024-04-25,Germany,45-54,Active,Paid Search,False,
+CUS-00117,2025-09-18,Poland,25-34,Active,Email,False,
+CUS-00118,2024-01-04,Poland,25-34,Active,Organic,True,2025-04-11
+CUS-00119,2026-04-10,Poland,35-44,At Risk,Organic,False,
+CUS-00120,2025-09-18,Germany,55+,Active,Paid Social,False,
+CUS-00121,2026-02-23,Spain,45-54,Active,Email,False,
+CUS-00122,2024-05-26,Poland,45-54,High Value,Paid Search,False,
+CUS-00123,2024-03-16,Spain,55+,Active,Organic,False,
+CUS-00124,2025-02-22,Poland,18-24,High Value,Organic,True,2025-06-27
+CUS-00125,2025-11-06,Spain,35-44,High Value,Email,True,2026-05-30
+CUS-00126,2023-07-23,Poland,35-44,Active,Referral,False,
+CUS-00127,2026-02-07,Poland,25-34,At Risk,Organic,False,
+CUS-00128,2024-12-07,United Kingdom,45-54,New,Email,False,
+CUS-00129,2025-08-20,Poland,25-34,High Value,Paid Social,False,
+CUS-00130,2023-08-22,Germany,35-44,At Risk,Organic,True,2024-02-11
+CUS-00131,2025-02-05,United Kingdom,25-34,Active,Email,False,
+CUS-00132,2024-11-11,Poland,35-44,Active,Paid Search,False,
+CUS-00133,2024-07-28,Poland,18-24,Active,Paid Search,False,
+CUS-00134,2023-10-20,Spain,25-34,High Value,Paid Search,False,
+CUS-00135,2024-07-31,Spain,45-54,New,Paid Social,False,
+CUS-00136,2025-12-20,Germany,18-24,Active,Paid Search,False,
+CUS-00137,2023-11-22,Poland,35-44,New,Paid Social,False,
+CUS-00138,2023-12-03,Spain,45-54,Active,Paid Social,False,
+CUS-00139,2025-08-15,Poland,25-34,Active,Email,False,
+CUS-00140,2023-11-07,Germany,35-44,Active,Organic,False,
+CUS-00141,2025-10-27,Poland,45-54,New,Organic,False,
+CUS-00142,2024-02-03,United Kingdom,25-34,Active,Paid Search,False,
+CUS-00143,2024-02-07,United Kingdom,55+,At Risk,Referral,False,
+CUS-00144,2026-05-12,Poland,35-44,New,Email,False,
+CUS-00145,2025-07-30,Poland,55+,Active,Organic,False,
+CUS-00146,2025-11-23,Poland,35-44,New,Paid Social,False,
+CUS-00147,2024-04-04,Poland,25-34,Active,Organic,True,2025-05-20
+CUS-00148,2025-10-19,Poland,25-34,High Value,Paid Search,True,2026-06-11
+CUS-00149,2025-05-10,Spain,18-24,New,Paid Social,False,
+CUS-00150,2024-06-16,Poland,45-54,Active,Referral,True,2026-06-07
+CUS-00151,2025-11-06,Poland,35-44,Active,Paid Social,True,2026-01-23
+CUS-00152,2024-11-18,Spain,18-24,New,Paid Search,False,
+CUS-00153,2025-04-02,Poland,18-24,High Value,Email,True,2026-01-17
+CUS-00154,2025-06-02,Poland,18-24,New,Paid Social,False,
+CUS-00155,2025-10-04,Germany,45-54,New,Organic,False,
+CUS-00156,2025-06-23,Poland,45-54,At Risk,Email,False,
+CUS-00157,2024-01-26,Germany,35-44,Active,Email,False,
+CUS-00158,2024-08-11,Poland,45-54,Active,Paid Social,False,
+CUS-00159,2024-07-06,Poland,18-24,New,Organic,False,
+CUS-00160,2023-10-30,Poland,45-54,Active,Referral,True,2025-04-07
+CUS-00161,2023-08-24,Spain,35-44,High Value,Organic,True,2026-02-22
+CUS-00162,2025-11-29,Poland,35-44,New,Email,False,
+CUS-00163,2024-07-14,Spain,35-44,New,Organic,True,2025-10-14
+CUS-00164,2024-06-29,Germany,35-44,At Risk,Organic,False,
+CUS-00165,2023-08-03,Poland,35-44,New,Referral,False,
+CUS-00166,2023-11-10,Poland,45-54,New,Organic,False,
+CUS-00167,2026-03-29,Poland,35-44,Active,Referral,False,
+CUS-00168,2023-10-22,Spain,25-34,Active,Paid Social,False,
+CUS-00169,2024-07-12,Germany,25-34,New,Organic,False,
+CUS-00170,2023-11-04,United Kingdom,18-24,At Risk,Email,False,
+CUS-00171,2023-09-09,Spain,55+,New,Organic,False,
+CUS-00172,2024-12-17,Spain,25-34,Active,Paid Social,False,
+CUS-00173,2023-11-10,United Kingdom,35-44,High Value,Organic,True,2026-01-16
+CUS-00174,2024-07-26,United Kingdom,18-24,At Risk,Organic,False,
+CUS-00175,2024-09-27,Spain,25-34,High Value,Referral,True,2026-02-28
+CUS-00176,2025-08-15,Poland,35-44,At Risk,Paid Social,False,
+CUS-00177,2024-06-19,Spain,35-44,Active,Organic,False,
+CUS-00178,2025-11-06,Poland,25-34,Active,Paid Social,True,2025-12-27
+CUS-00179,2025-12-26,Poland,18-24,Active,Referral,False,
+CUS-00180,2026-01-03,Poland,25-34,At Risk,Paid Social,True,2026-07-05
+CUS-00181,2024-08-03,Poland,35-44,Active,Email,True,2026-04-04
+CUS-00182,2025-07-26,Poland,25-34,High Value,Organic,True,2026-06-04
+CUS-00183,2025-04-15,Spain,55+,High Value,Email,False,
+CUS-00184,2024-05-13,Poland,25-34,At Risk,Paid Social,True,2024-10-06
+CUS-00185,2023-12-20,Germany,35-44,New,Organic,False,
+CUS-00186,2026-05-11,Spain,35-44,Active,Referral,True,2026-06-21
+CUS-00187,2025-01-23,Poland,45-54,Active,Referral,True,2025-12-18
+CUS-00188,2025-04-21,Poland,55+,New,Organic,False,
+CUS-00189,2025-07-17,Poland,25-34,Active,Paid Search,False,
+CUS-00190,2023-10-15,Spain,45-54,New,Paid Search,False,
+CUS-00191,2026-06-03,Poland,25-34,Active,Email,True,2026-06-12
+CUS-00192,2023-10-25,Germany,35-44,At Risk,Paid Social,False,
+CUS-00193,2025-04-08,Poland,18-24,Active,Email,False,
+CUS-00194,2024-12-31,Poland,35-44,Active,Organic,False,
+CUS-00195,2024-01-08,Poland,55+,Active,Paid Search,True,2025-01-28
+CUS-00196,2024-05-15,Poland,35-44,Active,Organic,False,
+CUS-00197,2024-05-13,United Kingdom,35-44,At Risk,Organic,False,
+CUS-00198,2025-11-02,Poland,25-34,At Risk,Referral,False,
+CUS-00199,2025-06-18,United Kingdom,25-34,Active,Email,False,
+CUS-00200,2024-02-25,Poland,55+,Active,Organic,False,
+CUS-00201,2025-05-08,Poland,25-34,New,Paid Social,False,
+CUS-00202,2024-05-03,Poland,45-54,Active,Paid Search,False,
+CUS-00203,2024-09-27,Germany,55+,High Value,Paid Search,True,2025-09-21
+CUS-00204,2024-08-14,United Kingdom,18-24,New,Paid Search,False,
+CUS-00205,2023-11-17,Spain,35-44,At Risk,Paid Social,False,
+CUS-00206,2025-06-10,Poland,45-54,Active,Paid Search,False,
+CUS-00207,2025-11-23,Germany,55+,Active,Paid Search,False,
+CUS-00208,2023-12-22,Poland,25-34,Active,Organic,True,2024-03-09
+CUS-00209,2026-05-01,United Kingdom,35-44,New,Organic,False,
+CUS-00210,2025-11-08,United Kingdom,45-54,Active,Organic,True,2025-11-13
+CUS-00211,2023-12-14,Poland,18-24,High Value,Organic,True,2024-12-15
+CUS-00212,2024-04-06,Poland,35-44,High Value,Referral,False,
+CUS-00213,2025-04-14,Poland,35-44,At Risk,Paid Search,False,
+CUS-00214,2025-08-15,United Kingdom,18-24,At Risk,Paid Search,False,
+CUS-00215,2025-08-08,Poland,55+,At Risk,Email,False,
+CUS-00216,2024-06-19,Germany,35-44,Active,Paid Search,False,
+CUS-00217,2025-04-05,Spain,45-54,New,Email,False,
+CUS-00218,2023-10-22,United Kingdom,35-44,High Value,Paid Search,False,
+CUS-00219,2024-04-03,Poland,25-34,New,Paid Social,False,
+CUS-00220,2025-03-02,United Kingdom,45-54,Active,Organic,True,2025-03-03
+CUS-00221,2025-03-20,United Kingdom,45-54,New,Organic,False,
+CUS-00222,2024-09-06,Poland,55+,High Value,Organic,True,2026-05-08
+CUS-00223,2025-06-28,Germany,55+,New,Email,False,
+CUS-00224,2024-10-08,United Kingdom,25-34,New,Email,False,
+CUS-00225,2025-05-10,United Kingdom,25-34,High Value,Paid Search,True,2026-07-15
+CUS-00226,2026-05-16,United Kingdom,35-44,Active,Email,False,
+CUS-00227,2025-08-17,Poland,45-54,At Risk,Email,False,
+CUS-00228,2024-03-19,Poland,18-24,Active,Paid Social,False,
+CUS-00229,2024-05-12,United Kingdom,45-54,Active,Paid Search,False,
+CUS-00230,2024-10-25,United Kingdom,35-44,Active,Email,False,
+CUS-00231,2024-06-25,Poland,25-34,New,Paid Social,False,
+CUS-00232,2023-10-21,Poland,25-34,New,Referral,True,2026-04-07
+CUS-00233,2025-11-11,United Kingdom,25-34,New,Organic,False,
+CUS-00234,2023-10-25,Germany,45-54,At Risk,Organic,False,
+CUS-00235,2024-11-21,Poland,45-54,Active,Paid Social,False,
+CUS-00236,2023-10-19,Poland,25-34,High Value,Organic,True,2024-01-04
+CUS-00237,2026-01-15,Poland,25-34,High Value,Organic,True,2026-04-17
+CUS-00238,2025-09-11,Spain,18-24,At Risk,Paid Social,False,
+CUS-00239,2025-10-25,Spain,55+,Active,Email,True,2025-12-25
+CUS-00240,2023-10-19,United Kingdom,25-34,New,Referral,False,
+CUS-00241,2025-09-18,United Kingdom,45-54,Active,Organic,False,
+CUS-00242,2023-11-24,Germany,25-34,New,Paid Search,False,
+CUS-00243,2024-05-06,Germany,25-34,High Value,Organic,False,
+CUS-00244,2023-11-06,Germany,35-44,Active,Organic,True,2026-05-18
+CUS-00245,2023-11-05,Spain,35-44,New,Organic,False,
+CUS-00246,2026-06-05,Germany,55+,At Risk,Organic,False,
+CUS-00247,2024-07-22,Poland,35-44,New,Organic,False,
+CUS-00248,2025-04-10,Poland,25-34,New,Organic,False,
+CUS-00249,2024-01-25,Poland,18-24,At Risk,Paid Search,False,
+CUS-00250,2025-12-23,Poland,55+,Active,Email,False,
+CUS-00251,2024-08-08,Poland,35-44,New,Organic,False,
+CUS-00252,2026-01-07,United Kingdom,35-44,At Risk,Email,False,
+CUS-00253,2026-01-31,Poland,55+,New,Paid Social,False,
+CUS-00254,2023-09-22,Spain,35-44,At Risk,Paid Search,True,2026-05-11
+CUS-00255,2023-11-27,Poland,35-44,At Risk,Organic,False,
+CUS-00256,2025-05-04,Poland,45-54,Active,Paid Social,True,2026-07-17
+CUS-00257,2025-10-12,Poland,35-44,Active,Email,False,
+CUS-00258,2024-11-25,Poland,35-44,At Risk,Paid Social,False,
+CUS-00259,2024-08-31,Germany,25-34,Active,Paid Search,False,
+CUS-00260,2024-06-04,Poland,45-54,Active,Paid Search,True,2025-10-05
+CUS-00261,2024-07-27,United Kingdom,25-34,New,Referral,False,
+CUS-00262,2024-09-07,United Kingdom,18-24,At Risk,Email,False,
+CUS-00263,2025-03-28,Germany,18-24,Active,Organic,False,
+CUS-00264,2024-02-11,Poland,45-54,High Value,Email,True,2025-05-22
+CUS-00265,2025-07-02,Poland,45-54,Active,Paid Search,False,
+CUS-00266,2024-11-25,Germany,25-34,At Risk,Organic,False,
+CUS-00267,2023-11-12,Germany,55+,High Value,Email,True,2023-11-26
+CUS-00268,2025-07-03,Germany,45-54,At Risk,Paid Search,True,2026-03-01
+CUS-00269,2025-12-13,Germany,35-44,New,Email,False,
+CUS-00270,2023-12-25,Poland,25-34,Active,Organic,False,
+CUS-00271,2023-11-13,Poland,25-34,High Value,Email,False,
+CUS-00272,2025-11-04,Germany,35-44,New,Organic,False,
+CUS-00273,2024-06-18,Germany,18-24,High Value,Paid Search,True,2025-07-15
+CUS-00274,2024-09-06,Poland,25-34,Active,Paid Search,True,2024-12-17
+CUS-00275,2025-01-15,Poland,45-54,New,Email,False,
+CUS-00276,2023-11-06,Spain,35-44,New,Paid Search,False,
+CUS-00277,2024-08-05,Germany,55+,Active,Email,True,2025-05-19
+CUS-00278,2024-10-07,Poland,55+,New,Organic,False,
+CUS-00279,2024-03-24,Poland,18-24,At Risk,Referral,False,
+CUS-00280,2025-06-02,Spain,35-44,New,Paid Search,False,
+CUS-00281,2025-11-12,Spain,25-34,Active,Organic,True,2026-03-09
+CUS-00282,2026-02-27,Poland,45-54,Active,Referral,False,
+CUS-00283,2026-05-03,United Kingdom,55+,At Risk,Organic,False,
+CUS-00284,2025-10-21,Germany,55+,High Value,Email,True,2025-10-24
+CUS-00285,2026-05-25,Germany,25-34,High Value,Paid Search,True,2026-07-17
+CUS-00286,2024-10-30,Poland,45-54,Active,Paid Search,True,2026-03-29
+CUS-00287,2023-12-30,Poland,25-34,At Risk,Organic,False,
+CUS-00288,2024-02-16,Germany,55+,At Risk,Email,True,2025-04-01
+CUS-00289,2024-01-18,Poland,18-24,New,Organic,True,2024-07-02
+CUS-00290,2025-11-28,Germany,35-44,Active,Organic,False,
+CUS-00291,2024-03-20,Spain,55+,At Risk,Paid Search,False,
+CUS-00292,2024-09-18,Poland,55+,New,Paid Search,False,
+CUS-00293,2024-10-02,Poland,25-34,High Value,Paid Social,True,2026-01-14
+CUS-00294,2024-06-14,Poland,45-54,High Value,Organic,True,2025-12-23
+CUS-00295,2025-01-05,Poland,35-44,At Risk,Paid Social,True,2025-06-12
+CUS-00296,2026-04-03,Spain,35-44,Active,Paid Search,False,
+CUS-00297,2024-09-05,Germany,25-34,Active,Paid Social,True,2025-10-02
+CUS-00298,2025-08-19,Germany,55+,New,Paid Search,False,
+CUS-00299,2024-08-16,Germany,45-54,New,Paid Search,False,
+CUS-00300,2023-10-09,Germany,25-34,Active,Paid Social,False,
+CUS-00301,2023-12-13,Poland,25-34,High Value,Referral,False,
+CUS-00302,2026-04-03,Germany,25-34,Active,Referral,False,
+CUS-00303,2025-05-11,Germany,45-54,New,Email,False,
+CUS-00304,2024-09-24,Spain,25-34,Active,Organic,True,2024-10-28
+CUS-00305,2023-07-28,Spain,45-54,Active,Referral,False,
+CUS-00306,2024-12-22,Germany,18-24,New,Organic,False,
+CUS-00307,2024-02-11,Germany,45-54,Active,Organic,True,2025-03-23
+CUS-00308,2024-03-30,United Kingdom,45-54,Active,Paid Search,False,
+CUS-00309,2025-06-08,Poland,25-34,At Risk,Paid Search,True,2026-05-06
+CUS-00310,2025-12-10,United Kingdom,25-34,Active,Organic,True,2025-12-13
+CUS-00311,2024-01-12,Poland,25-34,New,Organic,False,
+CUS-00312,2023-11-16,Germany,35-44,High Value,Email,False,
+CUS-00313,2024-03-10,Spain,55+,At Risk,Referral,False,
+CUS-00314,2025-11-16,Poland,35-44,Active,Paid Search,True,2025-11-29
+CUS-00315,2025-02-15,Germany,45-54,Active,Organic,False,
+CUS-00316,2026-01-12,United Kingdom,55+,New,Email,False,
+CUS-00317,2025-11-27,Poland,25-34,At Risk,Paid Social,False,
+CUS-00318,2024-03-09,Germany,25-34,At Risk,Organic,False,
+CUS-00319,2025-05-20,Spain,25-34,New,Referral,True,2025-08-26
+CUS-00320,2023-09-25,Poland,45-54,High Value,Organic,True,2025-01-15
+CUS-00321,2025-02-08,United Kingdom,45-54,At Risk,Organic,True,2025-03-10
+CUS-00322,2025-01-28,Poland,25-34,Active,Paid Search,False,
+CUS-00323,2024-06-13,United Kingdom,25-34,Active,Referral,False,
+CUS-00324,2026-06-16,Germany,55+,New,Organic,True,2026-06-28
+CUS-00325,2026-05-24,United Kingdom,18-24,New,Paid Search,False,
+CUS-00326,2023-12-29,Poland,25-34,High Value,Paid Search,True,2025-06-30
+CUS-00327,2025-12-08,Germany,35-44,Active,Email,False,
+CUS-00328,2025-04-14,Spain,25-34,Active,Referral,False,
+CUS-00329,2026-03-13,Germany,25-34,High Value,Organic,True,2026-04-12
+CUS-00330,2024-07-24,United Kingdom,55+,Active,Referral,True,2026-05-26
+CUS-00331,2024-03-31,Poland,18-24,Active,Email,True,2024-12-31
+CUS-00332,2025-04-23,United Kingdom,25-34,Active,Organic,True,2025-05-12
+CUS-00333,2024-04-26,United Kingdom,25-34,New,Email,False,
+CUS-00334,2024-12-20,Poland,18-24,At Risk,Email,False,
+CUS-00335,2025-04-22,United Kingdom,18-24,Active,Referral,False,
+CUS-00336,2026-05-28,Poland,45-54,At Risk,Paid Social,False,
+CUS-00337,2024-08-11,United Kingdom,25-34,High Value,Organic,False,
+CUS-00338,2024-09-09,Germany,35-44,New,Paid Search,False,
+CUS-00339,2024-03-26,Poland,45-54,High Value,Paid Social,False,
+CUS-00340,2024-01-06,United Kingdom,55+,Active,Referral,True,2025-08-22
+CUS-00341,2023-09-21,Poland,35-44,At Risk,Paid Search,False,
+CUS-00342,2025-07-23,Poland,45-54,At Risk,Organic,True,2025-10-17
+CUS-00343,2024-05-28,Spain,55+,High Value,Paid Search,True,2026-05-13
+CUS-00344,2025-01-16,Germany,35-44,High Value,Referral,True,2025-09-10
+CUS-00345,2024-07-10,United Kingdom,35-44,New,Paid Search,False,
+CUS-00346,2024-07-03,Spain,18-24,New,Paid Search,False,
+CUS-00347,2023-08-28,United Kingdom,25-34,At Risk,Email,True,2026-06-18
+CUS-00348,2024-05-18,Poland,35-44,High Value,Referral,False,
+CUS-00349,2025-04-01,Poland,55+,New,Referral,False,
+CUS-00350,2024-12-13,Germany,35-44,Active,Paid Search,False,
+CUS-00351,2024-09-27,Spain,45-54,Active,Paid Search,True,2024-11-19
+CUS-00352,2024-09-28,Spain,55+,Active,Email,True,2025-06-27
+CUS-00353,2026-04-14,Poland,18-24,Active,Organic,True,2026-07-21
+CUS-00354,2025-04-03,Poland,18-24,New,Referral,False,
+CUS-00355,2026-06-12,Germany,55+,Active,Paid Social,False,
+CUS-00356,2025-11-01,Poland,25-34,Active,Paid Search,False,
+CUS-00357,2024-12-18,Poland,25-34,New,Organic,False,
+CUS-00358,2023-09-03,United Kingdom,45-54,At Risk,Organic,False,
+CUS-00359,2024-01-18,Poland,35-44,High Value,Email,True,2025-02-26
+CUS-00360,2024-04-25,Poland,35-44,Active,Paid Social,False,
+CUS-00361,2026-01-09,Poland,35-44,Active,Paid Social,False,
+CUS-00362,2024-09-07,Poland,25-34,High Value,Organic,True,2024-10-06
+CUS-00363,2024-01-07,United Kingdom,25-34,New,Referral,False,
+CUS-00364,2026-02-03,Germany,35-44,Active,Paid Social,False,
+CUS-00365,2025-05-28,Germany,35-44,At Risk,Referral,False,
+CUS-00366,2025-01-10,Germany,55+,New,Paid Search,False,
+CUS-00367,2024-11-21,Germany,25-34,Active,Organic,False,
+CUS-00368,2025-05-30,Poland,45-54,New,Referral,True,2026-07-01
+CUS-00369,2024-01-18,Poland,55+,New,Organic,False,
+CUS-00370,2025-03-12,Germany,25-34,Active,Referral,True,2026-06-02
+CUS-00371,2024-05-13,Germany,45-54,New,Referral,False,
+CUS-00372,2024-08-21,Poland,25-34,At Risk,Organic,True,2024-09-24
+CUS-00373,2025-05-30,Spain,35-44,Active,Paid Social,False,
+CUS-00374,2023-07-25,Poland,35-44,At Risk,Referral,False,
+CUS-00375,2025-10-07,Spain,55+,Active,Email,False,
+CUS-00376,2025-11-05,Poland,35-44,High Value,Paid Social,True,2026-01-20
+CUS-00377,2025-02-07,Poland,45-54,Active,Paid Search,False,
+CUS-00378,2025-05-22,Poland,45-54,Active,Paid Search,True,2025-07-15
+CUS-00379,2026-05-19,Germany,18-24,New,Paid Search,False,
+CUS-00380,2024-12-16,Poland,18-24,New,Organic,False,
+CUS-00381,2026-03-17,United Kingdom,25-34,Active,Paid Social,True,2026-05-16
+CUS-00382,2026-05-18,Poland,45-54,Active,Email,False,
+CUS-00383,2024-02-01,Spain,35-44,New,Organic,False,
+CUS-00384,2024-10-31,United Kingdom,35-44,New,Email,False,
+CUS-00385,2025-09-17,Germany,25-34,Active,Organic,True,2026-01-15
+CUS-00386,2026-05-23,United Kingdom,18-24,New,Paid Search,False,
+CUS-00387,2025-04-17,United Kingdom,45-54,Active,Referral,False,
+CUS-00388,2024-12-10,Germany,25-34,New,Organic,False,
+CUS-00389,2025-04-08,Poland,25-34,New,Referral,False,
+CUS-00390,2024-10-24,Spain,18-24,At Risk,Email,True,2025-12-28
+CUS-00391,2024-02-05,United Kingdom,55+,At Risk,Email,True,2024-11-29
+CUS-00392,2025-05-06,Poland,45-54,At Risk,Paid Social,False,
+CUS-00393,2026-05-20,Germany,25-34,Active,Referral,False,
+CUS-00394,2025-03-02,United Kingdom,35-44,New,Paid Social,False,
+CUS-00395,2026-06-09,United Kingdom,25-34,Active,Organic,False,
+CUS-00396,2024-04-18,Spain,45-54,New,Organic,False,
+CUS-00397,2026-03-05,Spain,25-34,At Risk,Paid Social,False,
+CUS-00398,2025-12-23,United Kingdom,55+,At Risk,Organic,True,2026-04-18
+CUS-00399,2025-04-13,Poland,18-24,New,Paid Search,False,
+CUS-00400,2025-11-20,Poland,45-54,High Value,Paid Social,True,2025-11-20
+CUS-00401,2024-11-06,Spain,35-44,At Risk,Organic,False,
+CUS-00402,2024-10-10,Poland,25-34,At Risk,Paid Social,False,
+CUS-00403,2024-06-13,Poland,25-34,New,Paid Search,False,
+CUS-00404,2025-05-20,Poland,35-44,Active,Paid Search,True,2026-01-25
+CUS-00405,2025-07-14,Poland,25-34,High Value,Paid Search,True,2026-01-01
+CUS-00406,2025-06-08,Poland,35-44,Active,Paid Social,False,
+CUS-00407,2026-06-06,Poland,25-34,New,Organic,False,
+CUS-00408,2024-06-18,Poland,35-44,High Value,Referral,False,
+CUS-00409,2025-09-24,Germany,55+,Active,Email,False,
+CUS-00410,2025-07-27,Germany,18-24,New,Paid Search,False,
+CUS-00411,2024-04-11,Germany,45-54,At Risk,Paid Search,True,2024-08-20
+CUS-00412,2024-10-05,Germany,18-24,Active,Organic,False,
+CUS-00413,2025-09-30,Germany,18-24,At Risk,Paid Search,True,2026-06-14
+CUS-00414,2026-04-01,Spain,25-34,At Risk,Paid Social,False,
+CUS-00415,2026-03-10,Poland,45-54,At Risk,Paid Search,False,
+CUS-00416,2024-12-24,Poland,25-34,Active,Organic,False,
+CUS-00417,2023-12-15,United Kingdom,25-34,Active,Paid Social,True,2024-12-13
+CUS-00418,2026-06-02,Poland,45-54,Active,Paid Search,True,2026-07-02
+CUS-00419,2024-07-05,Germany,25-34,Active,Email,False,
+CUS-00420,2024-05-27,Germany,18-24,Active,Organic,True,2025-01-10
+CUS-00421,2023-08-29,United Kingdom,55+,High Value,Paid Social,True,2023-11-08
+CUS-00422,2024-08-06,Spain,25-34,High Value,Organic,True,2025-08-10
+CUS-00423,2026-02-26,Poland,35-44,Active,Organic,False,
+CUS-00424,2023-11-13,Poland,18-24,At Risk,Organic,True,2025-10-20
+CUS-00425,2025-04-26,Poland,25-34,Active,Paid Search,True,2026-07-17
+CUS-00426,2024-05-20,Poland,18-24,Active,Organic,True,2026-01-06
+CUS-00427,2025-08-28,Spain,55+,New,Paid Social,False,
+CUS-00428,2025-04-03,United Kingdom,45-54,Active,Referral,True,2025-10-09
+CUS-00429,2024-03-08,United Kingdom,45-54,At Risk,Paid Search,False,
+CUS-00430,2026-05-07,Spain,45-54,At Risk,Organic,True,2026-07-12
+CUS-00431,2023-07-31,United Kingdom,45-54,High Value,Paid Social,True,2024-01-12
+CUS-00432,2025-05-13,Poland,25-34,At Risk,Organic,True,2025-10-29
+CUS-00433,2024-04-21,Poland,25-34,Active,Email,True,2026-07-04
+CUS-00434,2025-07-13,Poland,25-34,Active,Paid Social,False,
+CUS-00435,2023-10-09,Germany,25-34,Active,Paid Search,True,2026-02-20
+CUS-00436,2024-08-13,United Kingdom,25-34,Active,Email,False,
+CUS-00437,2024-01-27,United Kingdom,18-24,High Value,Paid Social,False,
+CUS-00438,2025-07-01,Germany,25-34,New,Email,False,
+CUS-00439,2024-02-15,United Kingdom,18-24,New,Paid Social,False,
+CUS-00440,2025-07-13,Germany,25-34,At Risk,Paid Social,True,2026-03-29
+CUS-00441,2025-10-25,Spain,25-34,New,Paid Search,False,
+CUS-00442,2025-12-07,Poland,25-34,Active,Organic,False,
+CUS-00443,2026-02-02,Spain,35-44,At Risk,Email,False,
+CUS-00444,2024-11-26,Spain,55+,New,Paid Search,False,
+CUS-00445,2025-06-09,Poland,25-34,Active,Email,False,
+CUS-00446,2026-02-28,Poland,18-24,Active,Paid Social,False,
+CUS-00447,2025-09-14,Poland,55+,Active,Referral,False,
+CUS-00448,2025-05-15,Poland,25-34,At Risk,Paid Social,True,2026-07-14
+CUS-00449,2025-06-14,Poland,25-34,Active,Paid Search,True,2025-10-15
+CUS-00450,2025-07-29,Germany,25-34,New,Paid Search,False,
+CUS-00451,2025-06-21,Poland,35-44,Active,Email,False,
+CUS-00452,2024-08-28,United Kingdom,18-24,Active,Paid Search,False,
+CUS-00453,2024-08-10,Germany,18-24,High Value,Paid Social,False,
+CUS-00454,2026-04-08,Germany,45-54,New,Email,False,
+CUS-00455,2024-09-25,United Kingdom,45-54,Active,Email,False,
+CUS-00456,2025-10-09,Poland,45-54,New,Paid Social,False,
+CUS-00457,2025-08-13,Poland,45-54,Active,Organic,True,2026-04-13
+CUS-00458,2024-07-28,United Kingdom,25-34,New,Organic,False,
+CUS-00459,2024-09-21,Germany,25-34,At Risk,Organic,False,
+CUS-00460,2025-06-05,Poland,18-24,New,Referral,False,
+CUS-00461,2023-11-20,Germany,35-44,At Risk,Paid Search,False,
+CUS-00462,2024-10-08,Poland,35-44,Active,Email,False,
+CUS-00463,2024-07-21,Poland,25-34,At Risk,Paid Search,True,2025-02-17
+CUS-00464,2024-12-25,United Kingdom,35-44,Active,Email,True,2025-08-30
+CUS-00465,2025-11-08,Poland,18-24,New,Organic,True,2025-12-09
+CUS-00466,2024-02-22,Poland,35-44,At Risk,Paid Search,True,2024-10-13
+CUS-00467,2024-07-16,United Kingdom,18-24,Active,Paid Search,True,2025-05-09
+CUS-00468,2024-03-16,Poland,35-44,High Value,Organic,False,
+CUS-00469,2024-06-19,United Kingdom,25-34,New,Referral,True,2024-08-07
+CUS-00470,2025-04-27,United Kingdom,18-24,New,Organic,False,
+CUS-00471,2025-04-16,Poland,35-44,New,Paid Search,False,
+CUS-00472,2024-12-18,Germany,55+,High Value,Organic,True,2026-02-12
+CUS-00473,2025-07-15,Germany,55+,At Risk,Paid Social,True,2025-12-23
+CUS-00474,2023-10-27,Poland,25-34,High Value,Paid Social,True,2024-09-12
+CUS-00475,2025-05-05,Poland,25-34,Active,Paid Search,True,2026-03-03
+CUS-00476,2026-01-15,Germany,18-24,New,Paid Social,False,
+CUS-00477,2023-08-22,Poland,18-24,At Risk,Organic,True,2026-02-01
+CUS-00478,2025-03-04,Poland,45-54,High Value,Organic,False,
+CUS-00479,2025-08-01,Poland,18-24,Active,Paid Social,False,
+CUS-00480,2023-08-01,Poland,18-24,At Risk,Paid Social,True,2025-01-28
+CUS-00481,2024-10-28,United Kingdom,55+,Active,Referral,False,
+CUS-00482,2025-03-19,Poland,25-34,New,Email,False,
+CUS-00483,2025-05-03,Poland,35-44,High Value,Paid Search,False,
+CUS-00484,2025-11-05,Germany,18-24,New,Email,False,
+CUS-00485,2025-11-17,United Kingdom,18-24,New,Email,False,
+CUS-00486,2026-02-14,United Kingdom,35-44,High Value,Referral,True,2026-03-28
+CUS-00487,2025-08-19,Germany,25-34,At Risk,Paid Social,False,
+CUS-00488,2024-06-27,United Kingdom,25-34,At Risk,Referral,False,
+CUS-00489,2024-09-18,Poland,35-44,At Risk,Paid Search,True,2025-08-22
+CUS-00490,2025-08-15,Poland,35-44,Active,Paid Social,True,2025-08-26
+CUS-00491,2025-03-18,Germany,45-54,High Value,Paid Social,True,2025-12-04
+CUS-00492,2026-05-27,Poland,25-34,Active,Paid Social,False,
+CUS-00493,2026-06-12,Poland,35-44,At Risk,Organic,False,
+CUS-00494,2025-04-11,Germany,35-44,High Value,Paid Search,False,
+CUS-00495,2024-04-04,United Kingdom,35-44,Active,Paid Search,False,
+CUS-00496,2025-07-18,Poland,25-34,New,Email,False,
+CUS-00497,2024-02-06,Poland,25-34,Active,Referral,True,2026-05-15
+CUS-00498,2023-09-02,United Kingdom,18-24,Active,Paid Social,False,
+CUS-00499,2025-03-26,Poland,55+,At Risk,Email,False,
+CUS-00500,2026-01-27,Poland,45-54,Active,Paid Search,False,
+CUS-00501,2025-12-15,Spain,45-54,New,Organic,False,
+CUS-00502,2026-05-17,Spain,35-44,New,Paid Social,False,
+CUS-00503,2023-09-03,Poland,18-24,Active,Organic,False,
+CUS-00504,2023-11-30,Poland,35-44,At Risk,Organic,True,2025-09-25
+CUS-00505,2024-02-18,Poland,35-44,New,Email,False,
+CUS-00506,2025-07-09,Spain,45-54,New,Paid Social,False,
+CUS-00507,2024-04-30,United Kingdom,18-24,Active,Email,False,
+CUS-00508,2023-10-09,Poland,18-24,Active,Paid Social,False,
+CUS-00509,2024-08-30,Poland,25-34,Active,Paid Social,False,
+CUS-00510,2025-03-02,Poland,25-34,Active,Organic,False,
+CUS-00511,2024-12-12,Germany,55+,Active,Organic,False,
+CUS-00512,2024-06-15,Poland,35-44,High Value,Organic,True,2025-06-03
+CUS-00513,2024-12-11,United Kingdom,35-44,Active,Paid Social,False,
+CUS-00514,2024-12-28,Poland,35-44,Active,Email,True,2025-10-18
+CUS-00515,2024-09-27,United Kingdom,45-54,New,Paid Social,False,
+CUS-00516,2025-05-07,Spain,18-24,Active,Email,False,
+CUS-00517,2024-08-17,Poland,25-34,New,Organic,False,
+CUS-00518,2023-11-27,Poland,35-44,Active,Paid Search,True,2025-11-26
+CUS-00519,2023-08-22,United Kingdom,18-24,High Value,Organic,False,
+CUS-00520,2025-11-06,Poland,55+,At Risk,Email,True,2025-11-26
+CUS-00521,2025-01-16,Germany,45-54,Active,Organic,False,
+CUS-00522,2024-07-05,Poland,35-44,New,Paid Search,False,
+CUS-00523,2026-04-27,Germany,45-54,At Risk,Organic,False,
+CUS-00524,2023-11-06,Spain,45-54,Active,Email,True,2024-01-07
+CUS-00525,2023-09-09,Poland,55+,At Risk,Paid Social,False,
+CUS-00526,2024-08-10,Poland,25-34,Active,Organic,False,
+CUS-00527,2024-05-27,Spain,35-44,New,Paid Social,False,
+CUS-00528,2023-08-23,Poland,45-54,Active,Organic,False,
+CUS-00529,2026-03-14,Germany,45-54,High Value,Organic,False,
+CUS-00530,2024-03-15,United Kingdom,35-44,At Risk,Referral,False,
+CUS-00531,2024-07-27,United Kingdom,45-54,At Risk,Paid Search,False,
+CUS-00532,2024-02-04,Germany,18-24,At Risk,Organic,False,
+CUS-00533,2025-07-27,Poland,25-34,At Risk,Paid Search,False,
+CUS-00534,2026-05-27,Poland,35-44,At Risk,Paid Search,False,
+CUS-00535,2024-01-16,Poland,35-44,Active,Paid Social,False,
+CUS-00536,2025-12-15,United Kingdom,45-54,Active,Paid Search,False,
+CUS-00537,2024-06-25,Poland,35-44,At Risk,Organic,False,
+CUS-00538,2025-07-14,United Kingdom,25-34,High Value,Paid Social,True,2026-04-11
+CUS-00539,2024-08-24,Spain,55+,At Risk,Email,False,
+CUS-00540,2025-02-15,Poland,25-34,New,Email,False,
+CUS-00541,2024-04-08,Poland,45-54,High Value,Referral,True,2024-10-02
+CUS-00542,2024-04-02,Poland,25-34,Active,Paid Social,False,
+CUS-00543,2024-11-17,Poland,18-24,At Risk,Email,True,2025-02-08
+CUS-00544,2026-01-06,Spain,18-24,New,Paid Social,False,
+CUS-00545,2023-08-31,Poland,25-34,Active,Organic,False,
+CUS-00546,2024-11-18,Poland,25-34,High Value,Email,False,
+CUS-00547,2026-01-02,Germany,25-34,New,Organic,False,
+CUS-00548,2026-06-09,Germany,45-54,Active,Paid Social,True,2026-06-27
+CUS-00549,2025-03-30,Poland,45-54,New,Paid Search,False,
+CUS-00550,2024-05-26,Poland,35-44,High Value,Organic,True,2024-09-21
+CUS-00551,2026-01-27,United Kingdom,18-24,New,Email,False,
+CUS-00552,2026-03-23,United Kingdom,35-44,High Value,Paid Social,False,
+CUS-00553,2024-08-03,Poland,25-34,High Value,Organic,False,
+CUS-00554,2023-12-28,United Kingdom,45-54,At Risk,Email,False,
+CUS-00555,2024-11-02,Spain,18-24,New,Referral,False,
+CUS-00556,2026-06-19,Germany,25-34,Active,Organic,False,
+CUS-00557,2026-02-09,Germany,25-34,New,Organic,False,
+CUS-00558,2024-01-27,Germany,55+,High Value,Paid Search,True,2026-06-24
+CUS-00559,2023-09-24,United Kingdom,55+,At Risk,Referral,True,2025-03-16
+CUS-00560,2025-10-27,Poland,35-44,Active,Referral,False,
+CUS-00561,2025-05-18,Poland,35-44,At Risk,Organic,False,
+CUS-00562,2026-05-15,United Kingdom,25-34,New,Organic,False,
+CUS-00563,2025-02-17,United Kingdom,18-24,New,Organic,False,
+CUS-00564,2023-11-07,Germany,25-34,Active,Email,True,2025-12-31
+CUS-00565,2026-04-23,Poland,55+,Active,Email,False,
+CUS-00566,2025-01-03,Poland,45-54,High Value,Referral,True,2025-01-12
+CUS-00567,2025-05-05,Germany,45-54,New,Paid Social,False,
+CUS-00568,2025-08-22,Poland,25-34,Active,Organic,False,
+CUS-00569,2024-01-02,Poland,25-34,High Value,Organic,True,2025-11-05
+CUS-00570,2025-02-04,Poland,45-54,Active,Paid Search,True,2026-06-12
+CUS-00571,2025-07-06,United Kingdom,25-34,Active,Referral,False,
+CUS-00572,2024-03-16,Poland,45-54,At Risk,Paid Search,False,
+CUS-00573,2025-05-29,Poland,18-24,Active,Paid Search,False,
+CUS-00574,2024-04-21,Germany,55+,New,Organic,False,
+CUS-00575,2025-10-10,Poland,25-34,Active,Organic,False,
+CUS-00576,2026-04-28,Poland,35-44,New,Organic,False,
+CUS-00577,2024-09-14,Germany,25-34,New,Paid Social,True,2026-01-05
+CUS-00578,2025-11-05,Spain,18-24,New,Organic,True,2026-05-11
+CUS-00579,2025-07-14,Germany,35-44,New,Email,False,
+CUS-00580,2025-05-29,Poland,35-44,New,Paid Search,False,
+CUS-00581,2026-01-28,Poland,55+,Active,Paid Search,False,
+CUS-00582,2024-09-11,Poland,55+,Active,Paid Social,False,
+CUS-00583,2024-12-04,Germany,35-44,High Value,Paid Search,True,2025-06-12
+CUS-00584,2023-12-04,Spain,18-24,New,Referral,False,
+CUS-00585,2024-09-28,Poland,35-44,At Risk,Organic,True,2025-09-13
+CUS-00586,2024-08-04,Germany,25-34,Active,Paid Social,False,
+CUS-00587,2025-07-13,Germany,55+,Active,Paid Social,True,2026-02-19
+CUS-00588,2026-02-25,Poland,25-34,Active,Organic,True,2026-07-04
+CUS-00589,2025-03-02,United Kingdom,25-34,At Risk,Organic,True,2025-11-18
+CUS-00590,2023-09-05,United Kingdom,55+,Active,Email,True,2025-10-11
+CUS-00591,2024-12-08,Poland,55+,New,Paid Social,False,
+CUS-00592,2024-04-30,Poland,25-34,Active,Email,True,2026-05-27
+CUS-00593,2024-06-16,Poland,35-44,High Value,Organic,False,
+CUS-00594,2025-01-24,Poland,35-44,Active,Organic,True,2025-08-12
+CUS-00595,2025-01-01,Poland,55+,Active,Paid Social,False,
+CUS-00596,2024-09-29,United Kingdom,45-54,At Risk,Email,False,
+CUS-00597,2026-02-03,Poland,35-44,Active,Organic,True,2026-06-19
+CUS-00598,2024-09-24,Germany,25-34,New,Paid Social,True,2025-11-29
+CUS-00599,2023-08-07,Poland,35-44,High Value,Paid Social,False,
+CUS-00600,2025-10-02,Poland,55+,Active,Organic,False,
+CUS-00601,2024-05-14,Poland,45-54,At Risk,Organic,False,
+CUS-00602,2023-12-02,Poland,18-24,High Value,Referral,True,2024-12-10
+CUS-00603,2025-04-14,United Kingdom,35-44,Active,Organic,False,
+CUS-00604,2025-08-19,Poland,25-34,High Value,Organic,False,
+CUS-00605,2025-12-01,Germany,35-44,Active,Paid Search,False,
+CUS-00606,2024-07-30,Spain,35-44,New,Paid Search,False,
+CUS-00607,2025-07-31,Poland,25-34,High Value,Email,True,2026-04-07
+CUS-00608,2025-08-23,Poland,25-34,High Value,Paid Social,True,2026-02-13
+CUS-00609,2023-08-18,United Kingdom,25-34,Active,Referral,False,
+CUS-00610,2023-12-14,Germany,55+,At Risk,Organic,False,
+CUS-00611,2024-10-22,Germany,45-54,At Risk,Paid Social,True,2025-04-12
+CUS-00612,2025-04-11,Poland,25-34,Active,Organic,False,
+CUS-00613,2024-08-03,Poland,55+,Active,Paid Search,False,
+CUS-00614,2024-11-09,Poland,45-54,Active,Paid Search,False,
+CUS-00615,2026-05-19,United Kingdom,45-54,New,Email,False,
+CUS-00616,2026-01-11,Germany,35-44,At Risk,Organic,False,
+CUS-00617,2025-02-15,United Kingdom,45-54,New,Referral,False,
+CUS-00618,2025-07-27,Germany,35-44,Active,Email,True,2026-02-26
+CUS-00619,2025-10-24,Spain,55+,At Risk,Paid Search,False,
+CUS-00620,2025-01-07,Poland,25-34,New,Organic,True,2025-12-03
+CUS-00621,2025-11-23,Spain,45-54,At Risk,Paid Social,True,2026-03-31
+CUS-00622,2025-01-19,Germany,25-34,High Value,Email,True,2026-07-18
+CUS-00623,2025-06-26,United Kingdom,35-44,Active,Paid Search,True,2026-01-22
+CUS-00624,2024-11-10,United Kingdom,25-34,Active,Organic,True,2025-05-24
+CUS-00625,2024-07-15,Poland,35-44,New,Organic,False,
+CUS-00626,2024-01-26,Poland,35-44,New,Email,False,
+CUS-00627,2024-05-17,Poland,18-24,Active,Referral,False,
+CUS-00628,2024-11-24,Poland,45-54,High Value,Paid Search,False,
+CUS-00629,2024-01-24,Spain,18-24,Active,Referral,True,2026-05-05
+CUS-00630,2024-05-05,United Kingdom,45-54,Active,Organic,False,
+CUS-00631,2024-05-15,Poland,18-24,New,Organic,False,
+CUS-00632,2024-06-23,Poland,55+,Active,Paid Search,True,2026-01-17
+CUS-00633,2025-08-13,Poland,45-54,At Risk,Paid Social,False,
+CUS-00634,2024-09-24,Poland,18-24,High Value,Paid Social,True,2026-04-09
+CUS-00635,2026-01-23,United Kingdom,55+,At Risk,Paid Social,False,
+CUS-00636,2025-10-14,Poland,18-24,New,Paid Social,False,
+CUS-00637,2026-02-04,Germany,25-34,At Risk,Organic,True,2026-03-30
+CUS-00638,2023-12-26,Spain,18-24,New,Organic,False,
+CUS-00639,2024-05-19,Germany,35-44,New,Paid Social,True,2025-08-22
+CUS-00640,2024-07-10,Poland,25-34,Active,Email,False,
+CUS-00641,2025-02-02,Spain,35-44,High Value,Email,False,
+CUS-00642,2024-04-26,Poland,18-24,Active,Organic,True,2025-08-08
+CUS-00643,2023-08-13,United Kingdom,35-44,Active,Organic,False,
+CUS-00644,2025-10-29,Poland,25-34,High Value,Paid Search,True,2025-12-17
+CUS-00645,2024-09-21,United Kingdom,35-44,Active,Organic,False,
+CUS-00646,2023-10-01,Poland,35-44,At Risk,Paid Search,False,
+CUS-00647,2023-10-15,Germany,18-24,Active,Organic,True,2026-02-20
+CUS-00648,2024-10-18,Poland,25-34,New,Paid Search,False,
+CUS-00649,2024-02-04,Spain,25-34,At Risk,Organic,False,
+CUS-00650,2026-04-08,United Kingdom,45-54,Active,Paid Search,True,2026-07-12
+CUS-00651,2023-12-29,Poland,35-44,At Risk,Organic,False,
+CUS-00652,2023-08-11,Poland,35-44,At Risk,Organic,True,2026-01-18
+CUS-00653,2024-10-06,Poland,35-44,New,Paid Search,False,
+CUS-00654,2025-07-21,United Kingdom,55+,New,Organic,False,
+CUS-00655,2025-08-04,Germany,45-54,At Risk,Referral,False,
+CUS-00656,2025-06-06,Germany,25-34,At Risk,Organic,False,
+CUS-00657,2025-01-02,Poland,18-24,High Value,Organic,True,2025-05-25
+CUS-00658,2023-10-10,Poland,18-24,Active,Paid Search,False,
+CUS-00659,2024-08-18,Germany,35-44,Active,Paid Search,False,
+CUS-00660,2025-08-03,Germany,35-44,At Risk,Organic,False,
+CUS-00661,2024-01-16,Poland,55+,At Risk,Referral,False,
+CUS-00662,2023-11-01,Poland,35-44,New,Organic,True,2025-07-15
+CUS-00663,2025-08-24,Germany,35-44,At Risk,Organic,False,
+CUS-00664,2023-11-15,Poland,18-24,New,Paid Search,False,
+CUS-00665,2026-01-04,United Kingdom,45-54,New,Paid Social,False,
+CUS-00666,2026-03-26,United Kingdom,35-44,At Risk,Organic,False,
+CUS-00667,2023-10-14,Poland,25-34,At Risk,Paid Search,True,2024-06-05
+CUS-00668,2024-03-10,Spain,25-34,Active,Paid Social,False,
+CUS-00669,2025-12-13,Poland,18-24,Active,Paid Social,False,
+CUS-00670,2024-11-05,Germany,45-54,High Value,Paid Search,False,
+CUS-00671,2023-12-02,Poland,25-34,New,Paid Search,False,
+CUS-00672,2024-08-11,Germany,35-44,Active,Paid Social,False,
+CUS-00673,2024-01-23,Germany,35-44,Active,Paid Search,True,2026-06-07
+CUS-00674,2025-04-29,Germany,18-24,Active,Paid Search,False,
+CUS-00675,2026-02-18,Spain,25-34,At Risk,Paid Social,True,2026-06-13
+CUS-00676,2026-03-09,Spain,35-44,Active,Email,True,2026-04-21
+CUS-00677,2025-10-11,Spain,35-44,Active,Organic,False,
+CUS-00678,2025-03-04,Spain,25-34,High Value,Organic,True,2026-02-16
+CUS-00679,2025-06-09,Spain,18-24,New,Referral,False,
+CUS-00680,2024-10-26,Poland,35-44,At Risk,Paid Social,True,2026-01-26
+CUS-00681,2025-05-19,Germany,55+,New,Email,False,
+CUS-00682,2024-11-08,Poland,35-44,At Risk,Organic,False,
+CUS-00683,2025-12-22,Germany,18-24,High Value,Organic,True,2026-01-14
+CUS-00684,2026-02-24,United Kingdom,18-24,New,Email,False,
+CUS-00685,2023-12-24,United Kingdom,25-34,At Risk,Organic,False,
+CUS-00686,2024-06-09,Spain,55+,Active,Referral,True,2025-10-07
+CUS-00687,2024-06-14,Spain,25-34,Active,Organic,False,
+CUS-00688,2024-09-06,Poland,18-24,Active,Paid Social,True,2026-01-31
+CUS-00689,2023-11-26,Poland,25-34,Active,Email,True,2024-07-26
+CUS-00690,2024-07-29,United Kingdom,25-34,Active,Referral,False,
+CUS-00691,2024-04-18,Poland,18-24,High Value,Email,True,2024-08-12
+CUS-00692,2024-03-22,Spain,18-24,High Value,Referral,False,
+CUS-00693,2023-07-27,Poland,25-34,Active,Referral,False,
+CUS-00694,2025-04-17,Poland,25-34,High Value,Email,True,2026-04-01
+CUS-00695,2026-01-30,Germany,25-34,Active,Paid Social,False,
+CUS-00696,2025-07-21,Spain,55+,Active,Paid Social,False,
+CUS-00697,2024-10-17,United Kingdom,35-44,Active,Paid Social,False,
+CUS-00698,2023-09-11,United Kingdom,25-34,High Value,Paid Search,True,2024-09-04
+CUS-00699,2024-10-12,Spain,35-44,Active,Organic,True,2026-04-14
+CUS-00700,2024-10-04,United Kingdom,25-34,At Risk,Email,False,
+CUS-00701,2025-06-27,Poland,35-44,Active,Referral,False,
+CUS-00702,2023-11-10,United Kingdom,35-44,Active,Organic,False,
+CUS-00703,2024-07-19,Spain,55+,At Risk,Email,False,
+CUS-00704,2024-09-05,Poland,35-44,High Value,Referral,True,2026-05-09
+CUS-00705,2026-03-19,Poland,25-34,Active,Paid Social,False,
+CUS-00706,2026-01-24,Poland,45-54,Active,Paid Search,True,2026-06-01
+CUS-00707,2024-05-25,Germany,25-34,New,Referral,True,2026-03-16
+CUS-00708,2024-01-17,Germany,25-34,High Value,Paid Search,True,2026-05-11
+CUS-00709,2024-07-06,Spain,25-34,At Risk,Paid Search,False,
+CUS-00710,2026-04-24,Spain,18-24,Active,Email,False,
+CUS-00711,2024-03-10,Poland,35-44,At Risk,Organic,False,
+CUS-00712,2024-09-07,Spain,35-44,High Value,Paid Social,True,2026-06-11
+CUS-00713,2024-02-28,Spain,25-34,High Value,Email,True,2024-06-17
+CUS-00714,2023-10-23,Germany,45-54,At Risk,Paid Search,False,
+CUS-00715,2024-04-05,Poland,25-34,High Value,Paid Search,True,2025-07-26
+CUS-00716,2026-02-01,Poland,45-54,Active,Organic,False,
+CUS-00717,2025-12-23,Poland,45-54,High Value,Email,False,
+CUS-00718,2024-10-13,Germany,45-54,At Risk,Organic,False,
+CUS-00719,2025-06-04,United Kingdom,18-24,At Risk,Organic,False,
+CUS-00720,2024-02-01,Spain,55+,At Risk,Paid Search,False,
+CUS-00721,2025-07-20,Germany,25-34,Active,Email,True,2026-04-13
+CUS-00722,2024-11-06,Poland,25-34,New,Organic,False,
+CUS-00723,2025-04-08,Germany,55+,High Value,Paid Social,True,2025-11-05
+CUS-00724,2025-09-07,Poland,25-34,High Value,Email,True,2026-04-04
+CUS-00725,2025-08-28,Germany,45-54,Active,Paid Social,True,2026-02-14
+CUS-00726,2023-11-24,United Kingdom,35-44,Active,Organic,False,
+CUS-00727,2026-02-06,Germany,25-34,New,Paid Social,False,
+CUS-00728,2023-09-22,Poland,45-54,New,Paid Social,False,
+CUS-00729,2025-05-24,United Kingdom,25-34,Active,Organic,True,2026-01-29
+CUS-00730,2026-02-14,Poland,25-34,High Value,Email,True,2026-04-03
+CUS-00731,2023-09-01,Poland,25-34,Active,Paid Search,True,2024-01-20
+CUS-00732,2024-07-12,Poland,45-54,New,Organic,False,
+CUS-00733,2026-06-04,Spain,35-44,New,Organic,False,
+CUS-00734,2026-01-01,Poland,25-34,Active,Paid Social,True,2026-01-09
+CUS-00735,2026-06-01,Poland,25-34,Active,Referral,False,
+CUS-00736,2024-09-13,Germany,25-34,At Risk,Organic,False,
+CUS-00737,2026-01-03,Poland,35-44,High Value,Organic,True,2026-01-18
+CUS-00738,2024-04-20,Spain,35-44,New,Paid Search,False,
+CUS-00739,2025-07-22,Poland,35-44,New,Referral,False,
+CUS-00740,2025-10-06,Poland,18-24,Active,Paid Search,True,2026-06-16
+CUS-00741,2025-06-08,Germany,35-44,At Risk,Organic,True,2026-01-10
+CUS-00742,2024-04-29,United Kingdom,25-34,New,Referral,False,
+CUS-00743,2026-01-17,Spain,45-54,At Risk,Email,False,
+CUS-00744,2025-05-30,United Kingdom,55+,At Risk,Paid Search,False,
+CUS-00745,2026-04-04,Spain,25-34,Active,Referral,False,
+CUS-00746,2025-08-24,Poland,45-54,High Value,Referral,False,
+CUS-00747,2023-12-11,Germany,35-44,At Risk,Organic,False,
+CUS-00748,2025-07-22,United Kingdom,45-54,At Risk,Paid Search,True,2025-12-04
+CUS-00749,2025-04-17,Spain,35-44,New,Organic,False,
+CUS-00750,2024-12-21,Spain,25-34,High Value,Organic,True,2025-08-27
+CUS-00751,2026-05-29,Germany,45-54,New,Paid Search,False,
+CUS-00752,2024-01-01,Poland,55+,Active,Organic,True,2024-09-06
+CUS-00753,2024-12-16,Poland,25-34,At Risk,Organic,False,
+CUS-00754,2025-04-22,Poland,35-44,High Value,Paid Social,True,2026-05-11
+CUS-00755,2024-10-12,United Kingdom,45-54,At Risk,Referral,False,
+CUS-00756,2026-05-17,Poland,45-54,Active,Email,False,
+CUS-00757,2025-04-05,Spain,25-34,New,Paid Social,False,
+CUS-00758,2025-11-23,Poland,25-34,At Risk,Paid Social,False,
+CUS-00759,2023-09-18,Poland,25-34,New,Paid Social,False,
+CUS-00760,2025-06-28,United Kingdom,25-34,High Value,Organic,True,2025-09-04
+CUS-00761,2024-11-22,Poland,25-34,New,Organic,False,
+CUS-00762,2024-08-18,Germany,55+,New,Referral,False,
+CUS-00763,2024-12-06,Germany,18-24,Active,Paid Search,True,2025-03-06
+CUS-00764,2025-04-10,Poland,35-44,Active,Referral,False,
+CUS-00765,2025-09-29,Germany,18-24,High Value,Referral,True,2025-09-29
+CUS-00766,2026-05-09,Poland,55+,Active,Paid Social,True,2026-06-30
+CUS-00767,2025-07-09,Poland,35-44,Active,Organic,False,
+CUS-00768,2025-04-24,Poland,45-54,Active,Organic,False,
+CUS-00769,2023-10-15,United Kingdom,35-44,High Value,Email,True,2024-08-01
+CUS-00770,2025-10-05,United Kingdom,25-34,Active,Organic,False,
+CUS-00771,2025-02-04,Poland,25-34,Active,Paid Social,True,2026-06-02
+CUS-00772,2025-09-04,Poland,45-54,New,Organic,False,
+CUS-00773,2026-03-20,United Kingdom,25-34,Active,Email,True,2026-06-13
+CUS-00774,2023-10-11,Poland,35-44,Active,Paid Search,False,
+CUS-00775,2024-06-03,Poland,18-24,Active,Email,True,2025-07-22
+CUS-00776,2025-11-22,Spain,18-24,Active,Paid Search,True,2026-01-11
+CUS-00777,2024-10-12,United Kingdom,35-44,High Value,Email,False,
+CUS-00778,2025-06-02,United Kingdom,55+,New,Organic,False,
+CUS-00779,2025-08-13,Germany,35-44,New,Email,False,
+CUS-00780,2024-01-27,Poland,18-24,Active,Organic,True,2024-03-11
+CUS-00781,2026-03-27,United Kingdom,35-44,New,Paid Search,False,
+CUS-00782,2026-02-22,Spain,35-44,High Value,Referral,False,
+CUS-00783,2024-07-28,Spain,25-34,Active,Paid Search,False,
+CUS-00784,2024-03-25,Germany,35-44,Active,Paid Search,False,
+CUS-00785,2024-11-16,Poland,55+,New,Organic,False,
+CUS-00786,2025-11-24,United Kingdom,18-24,Active,Email,False,
+CUS-00787,2023-08-13,Germany,18-24,Active,Paid Search,False,
+CUS-00788,2025-11-26,Germany,35-44,Active,Organic,True,2026-05-03
+CUS-00789,2023-12-14,Poland,35-44,New,Organic,False,
+CUS-00790,2024-07-06,Poland,45-54,At Risk,Organic,True,2026-04-20
+CUS-00791,2024-01-15,Spain,45-54,Active,Organic,False,
+CUS-00792,2025-07-08,Spain,18-24,Active,Paid Search,False,
+CUS-00793,2024-01-21,United Kingdom,25-34,Active,Paid Search,True,2024-09-16
+CUS-00794,2025-09-04,Poland,25-34,New,Organic,False,
+CUS-00795,2024-10-18,Germany,25-34,At Risk,Organic,True,2025-11-17
+CUS-00796,2024-09-19,Poland,35-44,New,Paid Social,True,2025-08-07
+CUS-00797,2025-08-10,Germany,25-34,New,Paid Search,False,
+CUS-00798,2025-07-25,Germany,55+,New,Email,False,
+CUS-00799,2024-08-04,Poland,25-34,At Risk,Organic,False,
+CUS-00800,2025-07-01,Germany,25-34,New,Organic,True,2026-01-31
+CUS-00801,2024-03-03,Spain,25-34,High Value,Paid Social,True,2025-10-19
+CUS-00802,2024-05-14,Poland,25-34,New,Paid Social,False,
+CUS-00803,2026-02-08,Spain,18-24,Active,Paid Social,True,2026-05-17
+CUS-00804,2024-02-20,Germany,18-24,Active,Referral,True,2024-06-07
+CUS-00805,2024-09-24,Poland,55+,New,Referral,False,
+CUS-00806,2025-04-27,United Kingdom,35-44,At Risk,Email,False,
+CUS-00807,2024-12-31,Germany,35-44,Active,Organic,True,2026-01-29
+CUS-00808,2024-09-10,United Kingdom,25-34,Active,Referral,True,2026-06-09
+CUS-00809,2023-07-26,Poland,55+,Active,Paid Search,False,
+CUS-00810,2024-10-04,Poland,25-34,Active,Referral,True,2026-04-20
+CUS-00811,2024-10-28,Germany,25-34,At Risk,Referral,False,
+CUS-00812,2026-01-19,Spain,25-34,At Risk,Referral,True,2026-05-11
+CUS-00813,2026-05-13,Poland,35-44,At Risk,Organic,False,
+CUS-00814,2025-08-21,United Kingdom,55+,High Value,Organic,True,2025-10-17
+CUS-00815,2025-06-15,Poland,25-34,Active,Organic,False,
+CUS-00816,2025-11-05,Germany,25-34,Active,Paid Search,False,
+CUS-00817,2025-08-13,United Kingdom,25-34,Active,Paid Social,True,2025-12-25
+CUS-00818,2024-12-20,Germany,18-24,At Risk,Organic,False,
+CUS-00819,2025-11-26,United Kingdom,25-34,New,Organic,False,
+CUS-00820,2025-11-13,Germany,35-44,Active,Email,False,
+CUS-00821,2025-02-27,Germany,25-34,Active,Email,False,
+CUS-00822,2025-06-29,United Kingdom,55+,New,Paid Social,False,
+CUS-00823,2024-12-03,United Kingdom,35-44,Active,Referral,False,
+CUS-00824,2024-05-11,Spain,25-34,Active,Paid Search,False,
+CUS-00825,2024-07-27,Spain,25-34,At Risk,Email,False,
+CUS-00826,2025-12-27,Germany,45-54,New,Email,False,
+CUS-00827,2025-03-08,Poland,35-44,High Value,Paid Social,True,2025-09-05
+CUS-00828,2025-04-21,Spain,45-54,New,Referral,False,
+CUS-00829,2023-09-28,Poland,25-34,Active,Paid Search,False,
+CUS-00830,2024-11-28,United Kingdom,25-34,Active,Paid Search,True,2026-06-29
+CUS-00831,2025-07-26,Poland,35-44,New,Paid Social,False,
+CUS-00832,2025-03-06,Poland,35-44,New,Organic,False,
+CUS-00833,2025-03-13,Spain,25-34,Active,Paid Social,True,2025-07-09
+CUS-00834,2025-08-30,Poland,35-44,New,Paid Search,True,2025-09-13
+CUS-00835,2024-02-04,Spain,25-34,At Risk,Referral,False,
+CUS-00836,2025-09-10,Spain,35-44,Active,Email,False,
+CUS-00837,2026-01-24,United Kingdom,35-44,High Value,Email,True,2026-03-29
+CUS-00838,2023-12-25,Poland,18-24,At Risk,Paid Search,True,2025-11-07
+CUS-00839,2023-12-24,Germany,45-54,New,Organic,False,
+CUS-00840,2025-10-17,Spain,25-34,Active,Organic,True,2026-04-12
+CUS-00841,2023-08-15,Poland,35-44,New,Referral,False,
+CUS-00842,2024-03-02,Poland,25-34,High Value,Organic,True,2025-11-28
+CUS-00843,2026-05-05,Poland,18-24,High Value,Paid Social,True,2026-05-19
+CUS-00844,2023-11-16,Poland,55+,New,Paid Social,False,
+CUS-00845,2025-07-21,Poland,25-34,New,Organic,True,2026-05-20
+CUS-00846,2024-09-06,Poland,35-44,At Risk,Organic,False,
+CUS-00847,2024-12-29,United Kingdom,45-54,At Risk,Organic,True,2026-04-27
+CUS-00848,2025-03-31,Spain,35-44,New,Paid Social,False,
+CUS-00849,2026-04-27,Germany,35-44,High Value,Referral,False,
+CUS-00850,2023-11-24,Poland,25-34,Active,Referral,False,
+CUS-00851,2024-12-14,Poland,35-44,Active,Referral,True,2026-05-21
+CUS-00852,2025-10-28,Germany,55+,New,Organic,True,2026-03-24
+CUS-00853,2024-11-25,Poland,45-54,At Risk,Paid Social,False,
+CUS-00854,2026-03-22,United Kingdom,45-54,Active,Referral,False,
+CUS-00855,2025-08-19,United Kingdom,45-54,At Risk,Organic,False,
+CUS-00856,2025-11-09,Spain,25-34,New,Referral,False,
+CUS-00857,2023-09-16,Germany,18-24,New,Email,False,
+CUS-00858,2026-03-08,Poland,55+,New,Paid Social,False,
+CUS-00859,2023-11-06,Poland,35-44,New,Referral,True,2024-11-04
+CUS-00860,2026-03-29,Germany,35-44,Active,Paid Social,False,
+CUS-00861,2026-06-20,Spain,25-34,Active,Organic,False,
+CUS-00862,2024-10-11,Poland,55+,New,Paid Social,False,
+CUS-00863,2024-07-10,Poland,45-54,Active,Organic,False,
+CUS-00864,2023-12-10,United Kingdom,45-54,Active,Paid Search,False,
+CUS-00865,2025-05-27,Germany,18-24,At Risk,Organic,False,
+CUS-00866,2023-12-22,United Kingdom,45-54,Active,Email,True,2024-05-26
+CUS-00867,2025-06-11,Poland,35-44,New,Referral,False,
+CUS-00868,2024-04-06,Poland,35-44,New,Referral,True,2025-07-15
+CUS-00869,2023-09-05,Germany,25-34,New,Referral,False,
+CUS-00870,2023-10-02,Spain,35-44,At Risk,Referral,False,
+CUS-00871,2024-12-07,United Kingdom,18-24,New,Email,True,2025-01-19
+CUS-00872,2024-10-20,Poland,35-44,High Value,Referral,False,
+CUS-00873,2025-01-29,United Kingdom,55+,New,Referral,False,
+CUS-00874,2025-02-24,Germany,18-24,New,Paid Search,False,
+CUS-00875,2025-05-22,Germany,25-34,Active,Paid Social,True,2025-09-12
+CUS-00876,2024-08-05,Poland,55+,New,Organic,False,
+CUS-00877,2025-10-25,Poland,35-44,Active,Referral,True,2026-04-03
+CUS-00878,2025-12-18,Poland,45-54,At Risk,Paid Social,False,
+CUS-00879,2026-06-16,Germany,35-44,New,Paid Search,False,
+CUS-00880,2024-04-27,United Kingdom,25-34,Active,Referral,True,2025-01-16
+CUS-00881,2024-04-19,Poland,25-34,High Value,Paid Search,True,2024-08-19
+CUS-00882,2026-02-23,Poland,45-54,Active,Organic,False,
+CUS-00883,2025-03-08,United Kingdom,25-34,Active,Organic,True,2026-07-02
+CUS-00884,2026-06-18,Poland,18-24,High Value,Paid Social,True,2026-06-29
+CUS-00885,2025-09-03,Germany,25-34,Active,Paid Social,True,2026-04-17
+CUS-00886,2024-03-01,Poland,25-34,Active,Organic,True,2025-02-24
+CUS-00887,2025-07-08,United Kingdom,25-34,Active,Paid Social,False,
+CUS-00888,2026-04-08,Poland,25-34,Active,Paid Search,False,
+CUS-00889,2024-08-20,Spain,55+,New,Organic,False,
+CUS-00890,2025-07-05,Germany,35-44,Active,Organic,True,2025-10-12
+CUS-00891,2026-05-23,United Kingdom,35-44,At Risk,Paid Social,False,
+CUS-00892,2023-08-06,Germany,18-24,Active,Referral,True,2025-07-28
+CUS-00893,2024-10-11,Poland,55+,Active,Organic,False,
+CUS-00894,2026-06-09,United Kingdom,55+,New,Organic,False,
+CUS-00895,2025-11-18,Germany,18-24,At Risk,Paid Search,True,2026-01-18
+CUS-00896,2023-11-14,Poland,45-54,High Value,Email,True,2025-09-30
+CUS-00897,2025-01-09,United Kingdom,25-34,Active,Email,False,
+CUS-00898,2026-01-20,Poland,25-34,Active,Paid Social,False,
+CUS-00899,2024-10-29,Spain,18-24,Active,Organic,False,
+CUS-00900,2026-04-10,Germany,45-54,Active,Referral,False,
+CUS-00901,2025-05-12,Germany,35-44,New,Organic,False,
+CUS-00902,2024-08-14,Poland,45-54,Active,Paid Search,False,
+CUS-00903,2025-07-01,Spain,18-24,Active,Organic,False,
+CUS-00904,2024-11-03,Poland,45-54,Active,Organic,False,
+CUS-00905,2024-05-27,United Kingdom,45-54,New,Referral,False,
+CUS-00906,2025-03-11,United Kingdom,25-34,Active,Paid Social,False,
+CUS-00907,2025-08-11,United Kingdom,35-44,High Value,Paid Social,True,2025-09-21
+CUS-00908,2024-07-25,Spain,18-24,New,Paid Search,False,
+CUS-00909,2025-03-06,Spain,35-44,New,Paid Search,True,2026-05-24
+CUS-00910,2025-01-30,Poland,45-54,Active,Organic,False,
+CUS-00911,2025-12-31,Poland,35-44,New,Organic,False,
+CUS-00912,2024-10-24,United Kingdom,18-24,High Value,Referral,False,
+CUS-00913,2024-10-23,Poland,45-54,At Risk,Organic,True,2024-11-09
+CUS-00914,2026-05-10,Poland,35-44,High Value,Paid Social,False,
+CUS-00915,2025-03-28,Poland,25-34,Active,Referral,False,
+CUS-00916,2024-09-21,Poland,35-44,New,Organic,False,
+CUS-00917,2023-08-04,United Kingdom,55+,High Value,Paid Social,False,
+CUS-00918,2025-12-18,Spain,35-44,High Value,Email,True,2026-01-06
+CUS-00919,2026-02-19,United Kingdom,25-34,New,Organic,False,
+CUS-00920,2025-09-01,Poland,25-34,At Risk,Paid Search,False,
+CUS-00921,2024-10-09,Spain,35-44,Active,Paid Social,False,
+CUS-00922,2024-07-14,Poland,18-24,Active,Email,False,
+CUS-00923,2026-02-20,United Kingdom,35-44,At Risk,Paid Search,False,
+CUS-00924,2025-01-20,Germany,25-34,Active,Paid Social,True,2025-07-09
+CUS-00925,2026-04-06,Germany,55+,New,Organic,False,
+CUS-00926,2024-05-13,Poland,25-34,Active,Organic,False,
+CUS-00927,2026-03-13,Poland,25-34,Active,Paid Social,False,
+CUS-00928,2024-08-15,United Kingdom,25-34,New,Organic,False,
+CUS-00929,2026-06-09,Germany,18-24,New,Organic,True,2026-07-15
+CUS-00930,2026-05-12,Poland,25-34,At Risk,Paid Search,False,
+CUS-00931,2026-06-14,Poland,18-24,At Risk,Paid Search,False,
+CUS-00932,2024-02-20,Poland,35-44,At Risk,Organic,False,
+CUS-00933,2026-03-24,Germany,18-24,High Value,Paid Social,False,
+CUS-00934,2023-12-20,Poland,45-54,Active,Organic,False,
+CUS-00935,2026-03-23,Poland,25-34,New,Paid Social,False,
+CUS-00936,2026-04-22,Poland,18-24,New,Email,False,
+CUS-00937,2023-09-22,United Kingdom,45-54,At Risk,Email,True,2025-01-13
+CUS-00938,2025-06-06,Germany,45-54,Active,Referral,True,2025-07-01
+CUS-00939,2026-01-08,United Kingdom,45-54,Active,Paid Search,True,2026-05-29
+CUS-00940,2024-02-12,Germany,35-44,High Value,Referral,True,2024-07-01
+CUS-00941,2024-10-23,Poland,25-34,At Risk,Organic,False,
+CUS-00942,2024-12-11,Poland,25-34,Active,Paid Search,True,2026-07-14
+CUS-00943,2025-04-28,Germany,55+,High Value,Paid Social,True,2025-09-11
+CUS-00944,2024-05-29,Germany,35-44,New,Organic,False,
+CUS-00945,2024-02-13,Poland,35-44,Active,Organic,False,
+CUS-00946,2025-11-06,Poland,35-44,Active,Paid Search,False,
+CUS-00947,2025-02-10,Poland,25-34,Active,Email,False,
+CUS-00948,2025-10-24,Poland,18-24,High Value,Paid Social,True,2026-05-06
+CUS-00949,2024-09-18,United Kingdom,25-34,New,Organic,False,
+CUS-00950,2024-04-03,Germany,45-54,New,Organic,False,
+CUS-00951,2024-08-25,Poland,35-44,New,Email,False,
+CUS-00952,2025-08-09,Spain,18-24,Active,Email,False,
+CUS-00953,2024-10-23,Spain,35-44,Active,Paid Search,False,
+CUS-00954,2024-12-30,Germany,25-34,Active,Referral,False,
+CUS-00955,2024-01-17,Poland,25-34,Active,Organic,True,2026-01-13
+CUS-00956,2023-11-16,Poland,25-34,New,Paid Social,False,
+CUS-00957,2024-02-26,Spain,35-44,Active,Email,False,
+CUS-00958,2024-07-07,United Kingdom,18-24,At Risk,Paid Social,False,
+CUS-00959,2026-06-07,Poland,55+,Active,Paid Search,True,2026-07-12
+CUS-00960,2026-06-04,Germany,45-54,New,Referral,False,
+CUS-00961,2025-03-31,Poland,35-44,Active,Referral,True,2026-06-06
+CUS-00962,2025-02-10,Germany,25-34,High Value,Paid Social,True,2025-04-21
+CUS-00963,2025-03-26,Germany,55+,Active,Paid Search,False,
+CUS-00964,2023-08-13,Germany,35-44,New,Paid Social,False,
+CUS-00965,2024-09-05,United Kingdom,45-54,High Value,Paid Search,True,2025-10-26
+CUS-00966,2024-01-30,Poland,45-54,Active,Email,True,2026-01-05
+CUS-00967,2025-02-14,United Kingdom,45-54,Active,Paid Search,True,2026-07-21
+CUS-00968,2026-06-01,Poland,18-24,At Risk,Organic,True,2026-06-26
+CUS-00969,2026-01-16,Poland,25-34,At Risk,Paid Search,False,
+CUS-00970,2025-03-05,United Kingdom,18-24,Active,Referral,True,2026-07-13
+CUS-00971,2025-02-19,United Kingdom,18-24,New,Organic,False,
+CUS-00972,2024-01-07,Germany,18-24,At Risk,Organic,False,
+CUS-00973,2026-06-05,Poland,45-54,Active,Paid Social,False,
+CUS-00974,2024-07-20,Poland,25-34,New,Paid Social,False,
+CUS-00975,2025-07-24,United Kingdom,35-44,Active,Paid Social,True,2025-08-02
+CUS-00976,2026-03-11,United Kingdom,25-34,Active,Paid Search,True,2026-06-28
+CUS-00977,2024-12-13,Germany,25-34,New,Email,False,
+CUS-00978,2026-02-24,United Kingdom,25-34,At Risk,Email,True,2026-04-07
+CUS-00979,2026-04-24,Poland,25-34,New,Paid Social,False,
+CUS-00980,2023-10-29,Germany,55+,Active,Referral,True,2026-07-12
+CUS-00981,2025-07-13,Poland,45-54,Active,Referral,True,2026-07-01
+CUS-00982,2024-11-03,Poland,35-44,Active,Organic,False,
+CUS-00983,2026-04-26,Poland,55+,New,Paid Search,False,
+CUS-00984,2025-04-17,United Kingdom,55+,At Risk,Paid Search,False,
+CUS-00985,2024-01-20,Poland,45-54,Active,Paid Search,True,2024-08-24
+CUS-00986,2023-10-01,Germany,45-54,Active,Organic,True,2023-11-27
+CUS-00987,2024-11-06,United Kingdom,25-34,High Value,Paid Social,True,2025-11-23
+CUS-00988,2024-01-19,United Kingdom,35-44,New,Organic,False,
+CUS-00989,2023-12-20,Germany,55+,At Risk,Paid Social,True,2024-12-18
+CUS-00990,2025-11-04,United Kingdom,35-44,At Risk,Paid Social,False,
+CUS-00991,2024-02-18,Poland,55+,New,Organic,False,
+CUS-00992,2025-03-17,Poland,25-34,New,Referral,False,
+CUS-00993,2025-06-26,Germany,25-34,New,Organic,False,
+CUS-00994,2025-02-18,Poland,18-24,New,Paid Social,False,
+CUS-00995,2026-05-29,Poland,45-54,Active,Paid Social,True,2026-07-20
+CUS-00996,2025-05-04,Poland,45-54,Active,Email,False,
+CUS-00997,2026-01-20,Poland,25-34,At Risk,Paid Search,True,2026-06-13
+CUS-00998,2024-03-19,Poland,55+,Active,Organic,False,
+CUS-00999,2025-04-27,United Kingdom,25-34,New,Paid Social,False,
+CUS-01000,2026-05-05,Germany,25-34,New,Paid Social,False,
