@@ -16,13 +16,13 @@ The project addresses three questions:
 
 ```text
 Synthetic source data
-        ↓
+        ->
 Python generation and validation
-        ↓
+        ->
 DuckDB analytical database
-        ↓
+        ->
 SQL transformations and campaign-level metrics
-        ↓
+        ->
 Power BI semantic and presentation layer
 ```
 
@@ -30,7 +30,6 @@ Power BI semantic and presentation layer
 
 - Python
 - pandas and NumPy
-- Faker
 - DuckDB
 - SQL
 - Power BI and DAX
@@ -40,8 +39,8 @@ Power BI semantic and presentation layer
 
 | Dataset | Grain | Purpose |
 |---|---|---|
-| `customers.csv` | One row per customer | Synthetic CRM customer master |
-| `campaigns.xlsx` | One row per campaign | Campaign plan, budget and targets |
+| `customers.csv` | One row per customer | Synthetic customer master with segment and loyalty attributes |
+| `campaigns.xlsx` | One row per campaign | Campaign plan, budget and performance targets |
 | `campaign_events.json` | One row per customer and campaign | Funnel activity: sent, opened, clicked and converted |
 | `transactions.csv` | One row per transaction | Revenue associated with customers and campaigns |
 | `campaign_performance.csv` | One row per campaign | Curated campaign-level reporting output |
@@ -52,7 +51,7 @@ Defining the grain before joining the datasets was important because campaign ev
 
 - Customers sent, opened, clicked and converted
 - Open rate
-- Click-through rate
+- Click-to-open rate
 - Conversion rate
 - Net revenue
 - Average order value
@@ -64,19 +63,19 @@ Defining the grain before joining the datasets was important because campaign ev
 
 ```text
 marketing-analytics-dashboard/
-- data/
-    raw/
-     curated/
-- powerbi/
-     Marketing Analytics Dashboard.pbix
-        marketing_theme.json
-- python/
-      generate_data.py
-        prepare_data.py
-- sql/
-      02_campaign_performance.sql
-- README.md
-- requirements.txt
+├── data/
+│   ├── raw/
+│   └── curated/
+├── powerbi/
+│   ├── Marketing Analytics Dashboard.pbix
+│   └── marketing_theme.json
+├── python/
+│   ├── generate_data.py
+│   └── prepare_data.py
+├── sql/
+│   └── 02_campaign_performance.sql
+├── README.md
+└── requirements.txt
 ```
 
 ## Running the project locally
@@ -128,14 +127,14 @@ The Campaign Performance Overview includes:
 - ROAS comparison against campaign targets;
 - funnel progression from sent to converted;
 - detailed target-performance table;
-- channel and customer-segment filters.
+- channel and target-segment filters.
 
 ## Example findings
 
-- Win-back SMS generated the highest total campaign revenue.
-- App Exclusive Offer achieved the highest ROAS because of its comparatively low budget.
-- Campaigns with substantial reach did not necessarily deliver the strongest commercial efficiency.
-- The funnel shows that engagement performance and final conversion should be evaluated as separate stages.
+- Spring Loyalty Bonus generated the highest total campaign revenue and the strongest ROAS.
+- Win-back SMS exceeded both its conversion and ROAS targets.
+- Mid-year Acquisition generated substantial revenue but remained below its ROAS target because of its comparatively high campaign budget.
+- Only approximately 7.6% of contacted customers reached the final conversion stage.
 
 ## Limitations and possible extensions
 
