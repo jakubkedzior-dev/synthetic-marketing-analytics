@@ -1,0 +1,14 @@
+{
+  "name": "Marketing Analytics Light",
+  "dataColors": [
+    "#1F4E79",
+    "#2A9D8F",
+    "#E9A23B",
+    "#6C757D",
+    "#8E6C88",
+    "#C77D3D"
+  ],
+  "background": "#F5F7FA",
+  "foreground": "#1F2937",
+  "tableAccent": "#1F4E79"
+}
