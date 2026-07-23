@@ -17,7 +17,7 @@ def generate_campaigns() -> pd.DataFrame:
     rows = [
         ["CMP-001", "Spring Loyalty Bonus", "Email", "2026-03-01", "2026-03-21", 400, "High Value", 0.08, 4.0],
         ["CMP-002", "Summer Social Reach", "Paid Social", "2026-04-01", "2026-04-30", 1200, "New", 0.04, 2.5],
-        ["CMP-003", "Win-back SMS", "SMS", "2026-05-01", "2026-05-14", 500, "At Risk", 0.07, 3.0],
+        ["CMP-003", "Win-back SMS", "SMS", "2026-05-01", "2026-05-14", 500, "At Risk", 0.07, 2.0],
         ["CMP-004", "App Exclusive Offer", "Push", "2026-05-15", "2026-06-05", 300, "Active", 0.09, 4.5],
         ["CMP-005", "Premium Customer Week", "Email", "2026-06-01", "2026-06-14", 350, "High Value", 0.10, 5.0],
         ["CMP-006", "Mid-year Acquisition", "Paid Search", "2026-06-15", "2026-07-15", 900, "New", 0.05, 3.0],
